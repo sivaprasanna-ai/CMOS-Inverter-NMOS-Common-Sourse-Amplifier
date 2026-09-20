@@ -1,0 +1,5 @@
+name="spice code" only_toplevel=false value=".lib $PDK_ROOT/sky130A/libs.tech/ngspice/sky130.lib.spice tt
+.op
+.tran 1n 10u
+.save all
+.end"
