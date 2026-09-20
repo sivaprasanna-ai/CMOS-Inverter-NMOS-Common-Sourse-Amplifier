@@ -1,0 +1,13 @@
+# Xschem temporary files
+*.bak
+*.swp
+
+# Editor/system files
+*~
+.DS_Store
+
+# Ngspice temporary files
+*.cir.bak
+
+# Large generated files
+*.raw
